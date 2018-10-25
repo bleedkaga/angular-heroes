@@ -1,0 +1,9 @@
+.messages-item{
+  padding: 4px;
+  height: 30px;
+  line-height: 30px;
+  margin-top: 10px;
+  border-radius: 4px;
+  background: #DCDFE6;
+  border:1px solid #C0C4CC;
+}
